@@ -7,6 +7,6 @@
 `git add`
 `git push`
 `git commit`
-The background color should be `#FFA6C9` for day mode and `#DE3163` for night mode.
+The background color should be `#ffa6c9` for day mode and `#de3163` for night mode.
 
 
