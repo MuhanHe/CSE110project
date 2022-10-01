@@ -1,2 +1,1 @@
-Muhan's User Page'
-# CSE110project
+Muhan's User Page
