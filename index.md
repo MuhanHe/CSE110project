@@ -3,7 +3,7 @@
 Dream job: **Software Engineer!**
 ###### Although it is hard to be
 Major: Math-Computer Science\
-Hobbies: Swimming, baking\
+Hobbies: swimming, baking\
 Favorite animal: ragdoll cat 
 ![ragdoll cat](https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2020%2F09%2F24%2Fragdoll-554742943-2000.jpg)\
 Favorite film stars:
