@@ -27,7 +27,7 @@ There are some projects that I am interested:
 - applications with recommendation system: like Youtube, Yelp
 
 There are some daily task that I do everyday:
-- [x] do 3 leetcode questions(medium)
+- [x] do 3 leetcode questions(medium) #739
 - [ ] do 2 leetcode questions(hard)
 - [ ] exercise for 30-45 mins
 
